@@ -37,7 +37,3 @@ Feel free to contribute to the project by suggesting improvements or corrections
 ## Author
 Jose David Garcia Corzo
 Contact: dgc105@gmail.com
-
-## License
-This project is licensed under the [License Name]. Refer to the LICENSE file for more details.
-
